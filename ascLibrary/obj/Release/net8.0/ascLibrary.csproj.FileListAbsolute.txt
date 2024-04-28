@@ -1,0 +1,12 @@
+C:\Users\karak\Desktop\x\ClassLibraryAsc\ascLibrary\bin\Release\net8.0\ascLibrary.deps.json
+C:\Users\karak\Desktop\x\ClassLibraryAsc\ascLibrary\bin\Release\net8.0\ascLibrary.dll
+C:\Users\karak\Desktop\x\ClassLibraryAsc\ascLibrary\bin\Release\net8.0\ascLibrary.pdb
+C:\Users\karak\Desktop\x\ClassLibraryAsc\ascLibrary\obj\Release\net8.0\ascLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karak\Desktop\x\ClassLibraryAsc\ascLibrary\obj\Release\net8.0\ascLibrary.AssemblyInfoInputs.cache
+C:\Users\karak\Desktop\x\ClassLibraryAsc\ascLibrary\obj\Release\net8.0\ascLibrary.AssemblyInfo.cs
+C:\Users\karak\Desktop\x\ClassLibraryAsc\ascLibrary\obj\Release\net8.0\ascLibrary.csproj.CoreCompileInputs.cache
+C:\Users\karak\Desktop\x\ClassLibraryAsc\ascLibrary\obj\Release\net8.0\ascLibrary.sourcelink.json
+C:\Users\karak\Desktop\x\ClassLibraryAsc\ascLibrary\obj\Release\net8.0\ascLibrary.dll
+C:\Users\karak\Desktop\x\ClassLibraryAsc\ascLibrary\obj\Release\net8.0\refint\ascLibrary.dll
+C:\Users\karak\Desktop\x\ClassLibraryAsc\ascLibrary\obj\Release\net8.0\ascLibrary.pdb
+C:\Users\karak\Desktop\x\ClassLibraryAsc\ascLibrary\obj\Release\net8.0\ref\ascLibrary.dll

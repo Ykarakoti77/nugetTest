@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ascLibrary__001</id>
+    <version>1.0.0</version>
+    <authors>Asc</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="8697fa5c3d5ebc371d0fd24db0e3382b21f90abb" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\karak\Desktop\x\ClassLibraryAsc\ascLibrary\bin\Release\net8.0\ascLibrary.dll" target="lib\net8.0\ascLibrary.dll" />
+  </files>
+</package>

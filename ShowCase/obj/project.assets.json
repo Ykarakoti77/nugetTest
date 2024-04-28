@@ -2,20 +2,20 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "ascLibrary/1.0.0": {
+      "ascLibrary__001/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/ascLibrary.dll": {}
+          "bin/placeholder/ascLibrary__001.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ascLibrary.dll": {}
+          "bin/placeholder/ascLibrary__001.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ascLibrary/1.0.0": {
+    "ascLibrary__001/1.0.0": {
       "type": "project",
       "path": "../ascLibrary/ascLibrary.csproj",
       "msbuildProject": "../ascLibrary/ascLibrary.csproj"
@@ -23,7 +23,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "ascLibrary >= 1.0.0"
+      "ascLibrary__001 >= 1.0.0"
     ]
   },
   "packageFolders": {
