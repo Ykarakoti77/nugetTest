@@ -1,0 +1,35 @@
+{
+    "senderId": "sender@example.com",
+    "toList": [
+        {
+            "name": "Receiver 1",
+            "id": "receiver1@example.com"
+        },
+        {
+            "name": "Receiver 2",
+            "id": "receiver2@example.com"
+        }
+    ],
+    "ccList": [
+        {
+            "name": "CC 1",
+            "id": "cc1@example.com"
+        }
+    ],
+    "bccList": [
+        {
+            "name": "BCC 1",
+            "id": "bcc1@example.com"
+        }
+    ],
+    "mailSubject": "Mock Email Subject",
+    "mailBody": {
+        "heading": "Mock Email Heading",
+        "subHeading": "Mock Email SubHeading",
+        "body": "This is a mock email body."
+    },
+    "attachments": ["attachment1.pdf", "attachment2.docx"],
+    "visibility": 1,
+    "deliveryTime": "2024-04-28T12:00:00",
+    "mailProcessed": false
+}

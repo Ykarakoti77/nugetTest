@@ -5,7 +5,7 @@ namespace ascLibrary.src.common.models;
 public class Email
 {
     [JsonPropertyName("senderId")]
-    public string SenderId { get; set; }
+    public string SenderId { get; set; } = "";
 
     [JsonPropertyName("toList")]
     public List<Receiver> ToList { get; set; } = [];
@@ -17,7 +17,7 @@ public class Email
     public List<Receiver> BccList { get; set; } = [];
 
     [JsonPropertyName("mailSubject")]
-    public string MailSubject { get; set; }
+    public string MailSubject { get; set; } = "";
 
     [JsonPropertyName("mailBody")]
     public MailBody MailBody { get; set; }
@@ -51,5 +51,5 @@ public class MailBody
     public string? SubHeading { get; set; }
 
     [JsonPropertyName("body")]
-    public string Body { get; set; }
+    public string Body { get; set; } = "";
 }
